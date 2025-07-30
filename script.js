@@ -5,25 +5,25 @@ const products = {
             id: 'm1',
             title: 'Classic Denim Jacket',
             price: 2999,
-            image: 'images/denim-jacket.jpg'
+            image: 'denim-jacket.jpg'
         },
         {
             id: 'm2',
             title: 'Slim Fit Chinos',
             price: 1499,
-            image: 'images/photo-1473966968600-fa801b869a1a.avif'
+            image: 'photo-1473966968600-fa801b869a1a.avif'
         },
         {
             id: 'm3',
             title: 'Cotton Polo Shirt',
             price: 899,
-            image: 'images/photo-1586363104862-3a5e2ab60d99.avif'
+            image: 'photo-1586363104862-3a5e2ab60d99.avif'
         },
         {
             id: 'm4',
             title: 'Casual Sneakers',
             price: 2499,
-            image: 'images/photo-1491553895911-0055eca6402d.avif'
+            image: 'photo-1491553895911-0055eca6402d.avif'
         }
     ],
     women: [
@@ -31,25 +31,25 @@ const products = {
             id: 'w1',
             title: 'Floral Summer Dress',
             price: 1999,
-            image: 'images/photo-1572804013309-59a88b7e92f1.avif'
+            image: 'photo-1572804013309-59a88b7e92f1.avif'
         },
         {
             id: 'w2',
             title: 'High-Waist Jeans',
             price: 1799,
-            image: 'images/photo-1541099649105-f69ad21f3246.avif'
+            image: 'photo-1541099649105-f69ad21f3246.avif'
         },
         {
             id: 'w3',
             title: 'Leather Handbag',
             price: 3499,
-            image: 'images/photo-1590874103328-eac38a683ce7.avif'
+            image: 'photo-1590874103328-eac38a683ce7.avif'
         },
         {
             id: 'w4',
             title: 'Classic Blazer',
             price: 2999,
-            image: 'images/photo-1591047139829-d91aecb6caea.avif'
+            image: 'photo-1591047139829-d91aecb6caea.avif'
         }
     ]
 };
